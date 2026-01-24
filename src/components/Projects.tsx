@@ -38,7 +38,7 @@ const Projects = () => {
                   Login admin Account Permission Roles
                 </p>
                 <p className="text-red-500 font-semibold mt-2">
-                  Email: admin123@gmail.com
+                  Email: admin@gmail.com
                 </p>
                 <p className="text-red-500 font-semibold mt-2">
                   Password: 123456
@@ -49,7 +49,7 @@ const Projects = () => {
                   Login Cashier Account Permission Roles
                 </p>
                 <p className="text-red-500 font-semibold mt-2">
-                  Email: cashier123@gmail.com
+                  Email: cashier@gmail.com
                 </p>
                 <p className="text-red-500 font-semibold mt-2">
                   Password: 123456
